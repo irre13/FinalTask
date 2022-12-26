@@ -1,1 +1,2 @@
 # FinalTask
+![diagramma](diagramma.jpg)
